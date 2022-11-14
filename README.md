@@ -34,7 +34,7 @@ get_next_line is a 42 school project whose goal is to create a function that rea
 ## Example
 
 ```bash
-$> cc name_file.c get_next_line.c get_next_line_utils.c -o name_program #the name_program executable
+cc name_file.c get_next_line.c get_next_line_utils.c -o name_program #the name_program executable
 ```
 
 ```c
