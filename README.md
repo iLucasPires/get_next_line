@@ -55,8 +55,3 @@ int main(void)
     return (0);
 }
 ```
-
-## To do
-
-- [ ] Better error handling
-- [ ] Better Code
